@@ -36,6 +36,9 @@ header img{
     margin: 0 auto;
     font-size: 3rem;
 }
+.center-form-top{
+    margin: auto;
+}
 .center-form{
     width: 57%;
     margin: auto;
@@ -129,7 +132,7 @@ footer p{
     float: right;
 }
 .footer-icon-list li{
-    padding-left: 15px;
+    padding-left: 25px;
 }
 .footer-icon-list li a i{
 font-size: 30px;
